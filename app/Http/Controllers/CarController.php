@@ -10,7 +10,7 @@ use App\Rules\Uppercase;
 
 class CarController extends Controller
 {
-    // for non logged in user 
+
     // guest users can see index and show 
     public function __construct()
     {
